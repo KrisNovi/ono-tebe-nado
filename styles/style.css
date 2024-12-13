@@ -240,7 +240,7 @@ header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 25px;
-  padding: 146px 24px 0 24px;
+  padding: 147px 24px 0 24px;
 }
 
 .about__column_left {
@@ -292,7 +292,7 @@ header {
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: 182px 50px 88px 52px;
+  margin: 179px 50px 88px 52px;
 }
 
 .footer__menu {
@@ -320,7 +320,7 @@ header {
 
 .footer__menu-list-item {
   text-align: center;
-  text-underline-offset: 0.225em;
+  text-underline-offset: 0.32em;
   list-style: none;
 }
 
