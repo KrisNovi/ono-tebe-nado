@@ -290,7 +290,7 @@ body {
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: 181px 50px 88px 50px;
+  margin: 179px 49px 88px 49px;
   font-size: 18px;
 }
 
