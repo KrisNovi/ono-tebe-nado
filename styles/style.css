@@ -9,7 +9,7 @@ body {
   grid-template-columns: 450px auto 450px;
   justify-content: space-between;
   width: 100%;
-  padding: 94px 24px 94px 24px;
+  padding: 92px 24px 96px 24px;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -89,8 +89,6 @@ body {
   padding-top: 166px;
   padding-right: 50px;
   padding-left: 50px;
-  
-
 }
 
 .cover__title {
@@ -292,7 +290,7 @@ body {
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: 182px 50px 88px 52px;
+  margin: 181px 50px 88px 52px;
   font-size: 18px;
 }
 
@@ -309,7 +307,7 @@ body {
 
 .footer__menu-list-item {
   text-align: center;
-  text-underline-offset: 0.15em;
+  text-underline-offset: 0.2em;
   list-style: none;
 }
 
