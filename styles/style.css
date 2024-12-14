@@ -109,13 +109,13 @@ body {
 }
 
 .aligned-text_center {
-  text-align: center;
   line-height: 140%;
+  text-align: center;
 }
 
 .aligned-text_right {
-  text-align: right;
   line-height: 100%;
+  text-align: right;
 }
 
 .letter-spacing-extended {
@@ -133,7 +133,6 @@ body {
   padding: 135px 50px 50px 78px;
   color: #FFF;
   font-size: 22px;
-  line-height: 28px;
   font-style: normal;
   line-height: 28px;
   text-transform: uppercase;
